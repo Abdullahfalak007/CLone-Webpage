@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Begum W03 Semibold";
+}
+
+#headerDiv {
+    background-color: rgb(34, 35, 37);
+    width: 100%;
+    height: 18vw;
+    color: white;
+
+}
+/* #headingDiv{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+
+h1{
+    padding: 5vw 10vw 0vw 10vw;
+    font-size: 3.5vw;
+}
+
+#stamps{
+    display: flex !important;
+    margin-left: 7.4vw;
+    margin-top: 1.5vw;
+}
+
+#dp{
+    border-radius: 30vw;
+}
+
+.headerDivImgs{
+    margin-left: 3vw !important;
+}
